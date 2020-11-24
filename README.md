@@ -1,2 +1,2 @@
 # C-Programming-
-This repository is made for the basic of c programming lessons that I learned.
+This repository is made with the basic of c programming lessons that I learned.
